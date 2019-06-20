@@ -1,0 +1,90 @@
+body {
+    background: url("http://www.bruna.cat/imgdownload/full/10/103227/star-wars-moving-wallpaper.jpg");
+    color: Azure;
+  }
+  
+  #title {
+    font-size: 75px;
+    font-family: cursive;
+    text-align: center;
+    color: SkyBlue;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 5px;
+    border: solid black 6px;
+  }
+  
+  #subheading {
+    font-size: 25px;
+    font-family: georgia;
+    text-align: center;
+   
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: solid black 6px;
+    border-radius: 5px;
+   }
+  
+  #image {
+    max-width: 100%;
+      display: block;
+    margin: auto;
+    height: auto;
+  }
+  
+  #img-caption {
+    margin: 15px;
+    text-align: center;
+    }
+  
+  #headline{
+    text-align: center;
+    font-size: 35px; 
+    color: SkyBlue;
+  }
+  
+  #timeline {
+    list-style: square;
+  }
+  #tribute-info {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: left;
+    font-size: 20px;
+    border: solid black 6px;
+    border-radius: 5px;
+  }
+  
+  li {
+    color: Crimson;
+  }
+  
+  #famousquote {
+    color: SkyBlue;
+    text-align: center;
+    font-size: 35px;
+  }
+    
+  #bottom {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      top: 95%;
+      width: 100%;
+      background-color: red;
+      color: white;
+      text-align: center;
+      font-size: 25px;
+      }
+  
+  #tribute-link {
+    color: SkyBlue;
+  }
+  
